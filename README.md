@@ -1,0 +1,2 @@
+# magicCore
+A Magic Box~
